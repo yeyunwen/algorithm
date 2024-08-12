@@ -1,0 +1,16 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "new": "node ./scripts/new.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.8"
+  }
+}
