@@ -37,7 +37,7 @@ var threeSumClosest = function (nums, target) {
   return res;
 };
 
-// 思路
+// 思路 碰撞指针
 // 基数a 左右指针 pb pc
 // 相加和大于target 右指针左移
 // 相加和小于target 左指针右移
